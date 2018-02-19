@@ -1,4 +1,4 @@
-<img width="900" src="https://github.com/sergiokmpos/Terminal_UNO/blob/master/banner_UtubeDownloader.png"/>
+<img width="900" src="https://github.com/sergiokmpos/VideoDownloader_fromUtube/blob/master/banner_UtubeDownloader.png"/>
 
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow&style=plastic)](https://twitter.com/sergiokmpos)
