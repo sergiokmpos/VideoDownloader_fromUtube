@@ -43,11 +43,11 @@ Free
 ## :computer: Installation 
 
 Import Modules:
--
--
--
--
-
+-  tkinter
+ - pytube
+  - io
+   - PIL
+    - urllib
 
 ## :wrench: Setup 
 
