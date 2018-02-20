@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow&style=plastic)](https://twitter.com/sergiokmpos)
 
 
-Very very simple application made with pytube module and Tkinter framework. Only to study python language. On the other hand, now I can use my app to download videos of my Eng. of computer couse and this was great!
+Very very simple application made with pytube module and Tkinter framework. Only to study python language. On the other hand, now I can use my app to download videos of my Computer Engineering couse and this was great!
 
 It is my second Python application
 
