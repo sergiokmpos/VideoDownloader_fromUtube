@@ -4,13 +4,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow&style=plastic)](https://twitter.com/sergiokmpos)
 
 
-Very very simple application made with pytube module and Tkinter framework. Only to stady python language. On the other hand, now I can use my app to download videos of my Eng. of computer couse and this was great!
+Very very simple application made with pytube module and Tkinter framework. Only to study python language. On the other hand, now I can use my app to download videos of my Eng. of computer couse and this was great!
 
 It is my second Python application
 
 ## :books:  - Version 
 
-Alpha 0.1.0 - Woks well. Good interface, bur it is only for "firt" video size.. 
+Alpha 0.1.0 - Woks well. Good interface, bur it is only for "first" video size.. 
 
 ## :bulb: What 
 
@@ -26,7 +26,7 @@ To study Python, Tkinter, and to download videos;)
 
 ## :person_with_blond_hair: Who 
 
--For everybody
+- For everybody
 
 ## :date:  When
 
